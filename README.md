@@ -1,5 +1,5 @@
 # Dotfiles
-My personal dotfiles
+Personal Repo to bakcup my dotfiles.
 
 DE's and WM configurations:
 
