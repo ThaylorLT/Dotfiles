@@ -35,7 +35,13 @@ In the `wall` folder you will encounter all the wallpaper from themes and some 
 > > Obs: the random wallpaper will be probably broken, a simple edit on bspwmrc will do the trick.
 > 
 > Dependencies: **polybar, sxhkd, nerd-hack font**
-
+>
+>
+> ### bspwm-blue
+>
+> ![bspwm-blue](https://user-images.githubusercontent.com/91397478/158041300-9a78dbf6-31b4-475a-a7ab-a80766b57ecb.png)
+> Dependencies: **polybar, sxhkd, feh**
+> 
 # Sources:
 
 All the sources from the repos of the themes above
