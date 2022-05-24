@@ -44,14 +44,13 @@ All the sources from the repos of the themes above
 > 
 >  https://bitbucket.org/archlabslinux/skel/src/master/
 > 
->  
-> 
 > Source of bpwm-mccker theme:
 > 
 >  https://github.com/makccr/dot
 > 
->  
-> 
 > Source of LeftWM theme:
 > 
 >  https://github.com/arcolinux/arcolinux-leftwm-theme-grayblocks
+> 
+> Polybar theme for bspwm-blue:
+>  [https://github.com/adi1090x/polybar-themes]()
