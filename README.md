@@ -46,6 +46,17 @@ In the `wall` folder you will encounter all the wallpaper from themes and some 
 > ![bspwm-catppuccin](https://imgur.com/HlszUWK.png)
 > 
 > Dependencies: **polybar, sxhkd, feh** 
+> 
+> ### i3-cozy
+> 
+> ![i3-cozy](https://media.discordapp.net/attachments/677257230172684330/988995775142953000/unknown.png?width=976&height=553)
+> 
+> Dependencies: **polybar, playerctl**
+> 
+> ### i3-anime+eletronics
+> 
+> ![i3-anime+eletronics](https://cdn.discordapp.com/attachments/677680008839430181/1042951702371893298/image.png)
+> Dependencies: **polybar, playerctl** 
 
 # Sources:
 
