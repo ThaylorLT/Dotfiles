@@ -4,6 +4,8 @@ Personal repo to backup my dotfiles.
 
 In the `wall` folder you will encounter all the wallpaper from themes and some extras.
 
+**OBS:** Most of the configs have a script that set the resolution to 1600x900 because I'm too lazy to figure out another way to do it.
+
 # 
 
 # DE's and WM configurations:
