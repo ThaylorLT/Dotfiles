@@ -12,7 +12,7 @@ In the `wall` folder you will encounter all the wallpaper from themes and some 
 
 > ## AwesomeWM
 > 
-> ![laYceMe](https://cdn.discordapp.com/attachments/677257230172684330/917900483321016380/ArchLabs-49-1600x900.png)
+> ![ArchLabs-49-1600x900](https://github.com/ThaylorLT/Dotfiles/assets/91397478/ef22bda2-3d5e-40b4-afca-6b1a96ef3b4a)
 > 
 > Dependencies: **dunst, rofi**
 > 
@@ -32,7 +32,7 @@ In the `wall` folder you will encounter all the wallpaper from themes and some 
 > 
 > ### bspwm-maccker
 > 
-> ![laYceMe](https://cdn.discordapp.com/attachments/677257230172684330/929210177826209852/2022-01-07_23-30.png)
+> ![2022-01-07_23-30](https://github.com/ThaylorLT/Dotfiles/assets/91397478/8e206dc1-2d83-4f80-9039-4165c79dfe18)
 > 
 > > Obs: the random wallpaper will be probably broken, a simple edit on bspwmrc will do the trick.
 > 
@@ -45,19 +45,20 @@ In the `wall` folder you will encounter all the wallpaper from themes and some 
 > 
 > ### **bspwm-catppuccin**
 > 
-> ![bspwm-catppuccin](https://imgur.com/HlszUWK.png)
+> ![HlszUWK](https://github.com/ThaylorLT/Dotfiles/assets/91397478/832b253d-02b3-449c-ae41-e95bb3eeb43e)
 > 
 > Dependencies: **polybar, sxhkd, feh** 
 > 
 > ### i3-cozy
 > 
-> ![i3-cozy](https://media.discordapp.net/attachments/677257230172684330/988995775142953000/unknown.png?width=976&height=553)
+> ![unknown](https://github.com/ThaylorLT/Dotfiles/assets/91397478/d520373c-29b2-47f9-9df0-51ee7c8cbc36)
 > 
 > Dependencies: **polybar, playerctl**
 > 
 > ### i3-anime+eletronics
-> 
-> ![i3-anime+eletronics](https://cdn.discordapp.com/attachments/677680008839430181/1042951702371893298/image.png)
+>
+>![image](https://github.com/ThaylorLT/Dotfiles/assets/91397478/1dcf9cb7-14a8-4ef0-86fb-c16b5c628f8c)
+>
 > Dependencies: **polybar, playerctl** 
 
 # Sources:
