@@ -55,12 +55,6 @@ In the `wall` folder you will encounter all the wallpaper from themes and some 
 > 
 > Dependencies: **polybar, playerctl**
 > 
-> ### i3-anime+eletronics
->
->![image](https://github.com/ThaylorLT/Dotfiles/assets/91397478/1dcf9cb7-14a8-4ef0-86fb-c16b5c628f8c)
->
-> Dependencies: **polybar, playerctl** 
-
 # Sources:
 
 All the sources from the repos of the themes above
